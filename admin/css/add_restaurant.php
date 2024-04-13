@@ -77,10 +77,9 @@ if (isset($_POST['submit'])) {
 
 
 ?>
-
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">    
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -92,24 +91,24 @@ if (isset($_POST['submit'])) {
 </head>
 
 <body class="fix-header">
-
+  
     <div class="preloader">
         <svg class="circular" viewBox="25 25 50 50">
-            <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
-        </svg>
+			<circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" /> </svg>
     </div>
-
+   
     <div id="main-wrapper">
-
-        <div class="header">
+   
+       <div class="header">
             <nav class="navbar top-navbar navbar-expand-md navbar-light">
-                <div class="navbar-header">
+            <div class="navbar-header">
                     <a class="navbar-brand" href="dashboard.php">
-
+                        
                         <span><img src="images/icn.png" alt="homepage" class="dark-logo" /></span>
                     </a>
                 </div>
                 <div class="navbar-collapse">
+
 
                     <ul class="navbar-nav mr-auto mt-md-0">
 
@@ -123,27 +122,41 @@ if (isset($_POST['submit'])) {
 
 
                         <li class="nav-item dropdown">
+                 
+                    <ul class="navbar-nav mr-auto mt-md-0">
+                
+                        
+                     
+                       
+                    </ul>
+               
+                    <ul class="navbar-nav my-lg-0">
 
+                        
+                      
+                        <li class="nav-item dropdown">
+                           
+>>>>>>> b1c4a4561094cb4372bc57295f0649a931ea2db4
                             <div class="dropdown-menu dropdown-menu-right mailbox animated zoomIn">
                                 <ul>
                                     <li>
                                         <div class="drop-title">Notifications</div>
                                     </li>
-
+                                    
                                     <li>
                                         <a class="nav-link text-center" href="javascript:void(0);"> <strong>Check all notifications</strong> <i class="fa fa-angle-right"></i> </a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
-
-
-
+             
+                      
+                  
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle text-muted  " href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="images/bookingSystem/user-icn.png" alt="user" class="profile-pic" /></a>
                             <div class="dropdown-menu dropdown-menu-right animated zoomIn">
                                 <ul class="dropdown-user">
-                                    <li><a href="logout.php"><i class="fa fa-power-off"></i> Logout</a></li>
+                                   <li><a href="logout.php"><i class="fa fa-power-off"></i> Logout</a></li>
                                 </ul>
                             </div>
                         </li>
@@ -151,13 +164,13 @@ if (isset($_POST['submit'])) {
                 </div>
             </nav>
         </div>
-
+      
         <div class="left-sidebar">
-
+        
             <div class="scroll-sidebar">
-
+          
                 <nav class="sidebar-nav">
-                    <ul id="sidebarnav">
+                   <ul id="sidebarnav">
                         <li class="nav-devider"></li>
                         <li class="nav-label">Home</li>
                         <li> <a href="dashboard.php"><i class="fa fa-tachometer"></i><span>Dashboard</span></a></li>
