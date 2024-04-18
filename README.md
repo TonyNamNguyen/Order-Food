@@ -20,7 +20,7 @@ Dự án "Đặt Đồ Ăn Online" là một ứng dụng phần mềm được 
 ## Hướng Dẫn Cài Đặt
 1. Clone repository từ GitHub về máy tính của bạn.
 '''
-git clone https://github.com/your-username/food-ordering.git
+git clone [https://github.com/your-username/food-ordering.git](https://github.com/TonyNamNguyen/Order-Food.git)
 '''
 
 
@@ -47,4 +47,4 @@ Chúng tôi rất hoan nghênh mọi sự đóng góp từ cộng đồng. Nếu
 
 ---
 
-**© 2024 Đặt Đồ Ăn Online.**
+**© 2024 Double T&L - Đặt Đồ Ăn Online.**
