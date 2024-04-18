@@ -178,6 +178,30 @@ if(isset($_POST['submit'] ))
                                         <a href="add_category.php" class="btn btn-inverse">Hủy</a>
                                     </div>
                                 </form>
+                                <div class="card card-outline-primary">
+                            <div class="card-header">
+                                <h4 class="m-b-0 text-white">Thêm danh mục nhà hàng</h4>
+                            </div>
+                                <form action='' method='post' >
+                                    <div class="form-body">
+                                       
+                                        <hr>
+                                        <div class="row p-t-20">
+                                            <div class="col-md-12">
+                                                <div class="form-group">
+                                                    <label class="control-label">Danh mục</label>
+                                                    <input type="text" name="c_name" class="form-control" >
+                                                   </div>
+                                            </div>
+                                     
+                                            
+                                    </div>
+                                    <div class="form-actions">
+                                        <input type="submit" name="submit" class="btn btn-primary" value="Tạo"> 
+                                        <a href="add_category.php" class="btn btn-inverse">Hủy</a>
+                                    </div>
+                                </form>
+                            </div>
                             </div>
                         </div>
                     </div>
