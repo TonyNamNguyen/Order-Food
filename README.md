@@ -12,7 +12,7 @@ Dự án "Đặt Đồ Ăn Online" là một ứng dụng phần mềm được 
 6. **Theo dõi đơn hàng:** Theo dõi trạng thái của đơn hàng và nhận thông báo cập nhật.
 
 ## Công Nghệ Sử Dụng
-- **Frontend:** HTML, CSS, JavaScript (ReactJS)
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP (Laravel Framework)
 - **Database:** MySQL
 - **Deployment:** Linux
