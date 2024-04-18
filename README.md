@@ -13,7 +13,7 @@ Dự án "Đặt Đồ Ăn Online" là một ứng dụng phần mềm được 
 
 ## Công Nghệ Sử Dụng
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP (Laravel Framework)
+- **Backend:** PHP
 - **Database:** MySQL
 - **Deployment:** Linux
 
