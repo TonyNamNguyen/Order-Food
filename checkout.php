@@ -172,6 +172,21 @@ else{
                                         </ul>
                                         <p class="text-xs-center"> <input type="submit" onclick="return confirm('Xác nhận mua hàng?');" name="submit"  class="btn btn-success btn-block" value="Đặt hàng ngay"> </p>
                                     </div>
+                                    <li>
+                                            <a href="#"> <img src="images/paypal.png" alt="Paypal"> </a>
+                                        </li>
+                                        <li>
+                                            <a href="#"> <img src="images/mastercard.png" alt="Mastercard"> </a>
+                                        </li>
+                                        <li>
+                                            <a href="#"> <img src="images/maestro.png" alt="Maestro"> </a>
+                                        </li>
+                                        <li>
+                                            <a href="#"> <img src="images/stripe.png" alt="Stripe"> </a>
+                                        </li>
+                                        <li>
+                                            <a href="#"> <img src="images/bitcoin.png" alt="Bitcoin"> </a>
+                                        </li>
 									</form>
                                 </div>
                             </div>
